@@ -139,12 +139,10 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="Function_3.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="ShapeContainer.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="Function_3.h" />
     <ClInclude Include="ShapeContainer.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

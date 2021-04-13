@@ -2,10 +2,6 @@
 
 int main() {
 	setlocale(LC_ALL, "");
-	/*Rectangle jeden("jeden", 2, 2);
-	Rectangle dwa("dwa", 4, 3);
-	Shape* ptr = &jeden;*/
-
 	bool mainOk = 0;
 	short int n;
 	do {
@@ -163,7 +159,7 @@ int main() {
 		case 2: {
 			
 			break;
-		} //TODO zapis do pliku
+		}
 		case 3: {
 			
 			break;
