@@ -1,4 +1,6 @@
 ﻿#include "ShapeContainer.h"
+#include "BST.h"
+#include "BazaStudentow.h"
 
 int main() {
 	setlocale(LC_ALL, "");
